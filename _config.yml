@@ -1,7 +1,5 @@
-title: Tekoa
-description: BBB's Tekoa is an AI interface that helps government's agency!
-show_downloads: true
+title: Project Files
+description: Project files for Microeconomics and Business Studies, By Solomon!
 google_analytics:
 theme: jekyll-theme-architect
-site.github.zip_url: https://demo.bbb.bot
-site.github.tar_url: https://bbb.bot
+show_downloads: false
