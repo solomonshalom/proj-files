@@ -4,6 +4,10 @@ layout: default
 
 # Sushi, Family, and Food: An Interview for BST
 
+![Jensai Sushi](https://media.discordapp.net/attachments/1266132849749397636/1295056251490664588/image.jpg?ex=670d429f&is=670bf11f&hm=62bb3aced74a3ebded2b722e97176bad6996142179c47c432e034670b5407e73&=&format=webp&width=589&height=442)
+
+*Jensai Sushi*
+
 In this interview, I had the opportunity to speak with *Evan*, an employee of a family-owned Japanese-Chinese fusion restaurant called **Gensai Sushi**, located in Sacramento, California. The conversation covered various aspects of the restaurant's operations, including the **impact of the COVID-19 pandemic**, its **technology capabilities**, the **cuisine and quality**, the **family-owned nature** of the business, and its **financial situation**.
 
 When I asked Evan about the restaurant's revenue before and after COVID-19, he shared that while the business was *profitable* before the pandemic, it is now struggling to break even. I also inquired about their technology capabilities, and Evan revealed that they have a relatively advanced **point-of-sale system** and **digital ordering capabilities**, but they are lagging behind in their *marketing and outreach efforts*.
